@@ -25,6 +25,9 @@ set shiftwidth=4
 " Display extra whitespace
 set list listchars=tab:»·,trail:·,nbsp:·
 
+" Make the cursor wrap between lines
+set whichwrap+=<,>,h,l,[,]
+
 " Use one space, not two, after punctuation.
 set nojoinspaces
 
