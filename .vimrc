@@ -23,7 +23,7 @@ set shiftwidth=4
 " set expandtab
 
 " Display extra whitespace
-set list listchars=tab:»·,trail:·,nbsp:·
+" set list listchars=tab:»·,trail:·,nbsp:·
 
 " Make the cursor wrap between lines
 set whichwrap+=<,>,h,l,[,]
